@@ -1,0 +1,5 @@
+image==1.5.20
+numpy==1.14.3
+tensorflow==1.4.0
+
+# To create a new file in terminal, use type command: type requirements.txt
