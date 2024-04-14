@@ -1,5 +1,4 @@
 notes.txt 
 training.txt 
-model.h5
-model.keras
+model/
 myenv/
